@@ -1,6 +1,6 @@
 # Association_rules
 
-Dataset = my_movies
+# Dataset = my_movies , books
 
 Apriori Algorithm
 1. Support 10% & confidence 90%
